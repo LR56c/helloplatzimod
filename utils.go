@@ -1,8 +1,8 @@
-package utils
+package moduleTest
 
 import "fmt"
 
-func HelloWorld()  {
-//
+func HelloWorld() {
+	//
 	fmt.Println("hello world")
 }
